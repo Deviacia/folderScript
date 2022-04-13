@@ -1,10 +1,10 @@
 // Project settings
-const dirExport = './banners'
+const dirExport = './html'
 const templates = [
     {w: 300, h: 300},
     {w: 200, h: 420},
     {w: 300, h: 420},
-    {w: 600, h: 420}
+    {w: 600, h: 420},
 ]
 
 // Script
