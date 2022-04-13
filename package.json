@@ -1,0 +1,14 @@
+{
+  "name": "templateuser",
+  "version": "1.0.0",
+  "description": "nodejs pug",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ivan Sychev <ivan.bpemr@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "replace-in-file": "^6.3.2"
+  }
+}
