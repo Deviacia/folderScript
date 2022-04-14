@@ -18,7 +18,7 @@ const templates = [ <br />
     {w: 600, h: 420} <br />
 ]
 
-Script create folder with name <code>{dirExport}</code>, in example it is <code>banners</code> <br />
+Script create folder with name <code>{dirExport}</code>, in example it is <code>html</code> <br />
 And inserted inside 4 folders with names : <code>./banners/300x300</code>, <code>./banners/200x420</code>, <code>./banners/300x420</code> and <code>./banners/600x420</code> <br />
 And in each folder inserted index.html with the sizes corresponding to the name instead of variables
 
