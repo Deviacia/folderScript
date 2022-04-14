@@ -1,5 +1,7 @@
 Hi there.
 
+NodeJS is required for the script to work
+
 This script use <code>index.html</code> template file from <code>./template</code>. <br />
 After it script creating any count of folders with independent names from array, <br />
 and <strong>insert in each folder new index.html with edits</strong> in <code>{width}</code> and <code>{height}</code> from array.<br />
