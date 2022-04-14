@@ -4,6 +4,8 @@ This script use <code>index.html</code> template file from <code>./template</cod
 After it script creating any count of folders with independent names from array, <br />
 and <strong>insert in each folder new index.html with edits</strong> in <code>{width}</code> and <code>{height}</code> from array.<br />
 
+In the base template, we need to write variables <code>{width}</code> and <code>{height}</code> where we need to do edits <br />
+
 GO TO <code>./index.js</code> <br />
 Like example we have array with this sizes<br />
 
